@@ -18,5 +18,7 @@ Input Parameters:
 	3.Input Format: ./a.out <path of R file> <path of S file> <sort/hash> <M> Output:
 	
 Output:
+
 	Output File:
-		<R filename>_<S filename>_join (Kindly note it should contain only R & S filenameand not their path)	
+		
+		 Rfilename_Sfilename_join
